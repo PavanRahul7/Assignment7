@@ -1,2 +1,0 @@
-[pwd]-Print working directory
-
